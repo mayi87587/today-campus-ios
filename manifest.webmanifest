@@ -1,0 +1,12 @@
+{
+  "name": "校园生活模拟器",
+  "short_name": "校园生活",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6fb",
+  "theme_color": "#2878e8",
+  "lang": "zh-CN",
+  "description": "独立开发的 iOS 风格校园事务本地模拟器"
+}
